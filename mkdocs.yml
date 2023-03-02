@@ -3,5 +3,6 @@ theme:
   name: material
   features:
     - content.action.edit
+repo_url: https://github.com/hackforla/admin-new-project-provisioning
 repo_name: hackforla/admin-new-project-provisioning
 edit_uri: edit/main/docs/
