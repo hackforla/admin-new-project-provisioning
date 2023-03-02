@@ -1,5 +1,7 @@
 site_name: New Project Provisioning
 theme:
   name: material
+  features:
+    - content.action.edit
 repo_name: hackforla/admin-new-project-provisioning
 edit_uri: edit/main/docs/
